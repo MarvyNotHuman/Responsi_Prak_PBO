@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         BahanBakar[] daftarBBM = {
             new BahanBakar("Pertalite", 10000, false, true),
-            new BahanBakar("Pertamax", 16950),
+            new BahanBakar("Pertamax", 15950),
             new BahanBakar("Solar", 6800, true, true)
         };
         SPBU spbu = new SPBU("Purwokerto, Jawa Tengah", "SPBU-001");
